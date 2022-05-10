@@ -17,7 +17,7 @@ Welkom bij de tweede huiswerkopdracht die jullie gaan maken voor de Backend leer
 
 ## Opdrachtbeschrijving
 
-Maak in het nieuwe Java project dat je hebt gemaakt een main klasse en een `public static void` main methode. 
+Maak in het nieuwe Java project dat je hebt gemaakt een main klasse en een `public static void main` methode. 
 
 We gaan het volgende appeltaart recept uit laten printen door de applicatie:
 
