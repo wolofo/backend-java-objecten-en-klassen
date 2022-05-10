@@ -5,11 +5,11 @@ Welkom bij de tweede huiswerkopdracht die jullie gaan maken voor de Backend leer
 
 1. Open IntelliJ op je computer.
 
-2. Kies rechts bovenin voor 'New project'.
+2. Kies rechts bovenin voor _New project_.
 
-3. Op het volgende scherm zie je linksboven dat 'Java' blauw geselecteerd is. Daar klik je op 'Next'.
+3. Op het volgende scherm zie je linksboven dat _Java_ blauw geselecteerd is. Daar klik je op _Next_.
 
-4. Op het volgende scherm hoeven we niks te selecteren en kunnen we gewoon op 'Next' klikken.
+4. Op het volgende scherm hoeven we niks te selecteren en kunnen we gewoon op _Next_ klikken.
 
 5. Op het volgende scherm kunnen we een naam meegeven aan het project. Kies altijd een beschrijvende naam die iets zegt over je project zodat je ook weet wat erin staat. Bijvoorbeeld "javaOpdracht1".
 
