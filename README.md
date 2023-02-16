@@ -1,5 +1,5 @@
 ## Inleiding
-Welkom bij de tweede huiswerkopdracht die jullie gaan maken voor de Backend leerlijn. Je hebt als het goed is het hoofdstuk 2.6 gelezen en de tweede les van de cursus Java gevolgd. In deze opdracht ga je oefenen met wat je tot nu geleerd hebt over beslissingsstructuren en methodes. En het laten uitprinten van een appeltaart recept door je applicatie. 
+In deze opdracht ga je oefenen met wat je tot nu geleerd hebt over beslissingsstructuren en methodes. En het laten uitprinten van een appeltaart recept door je applicatie!
 
 ## Opzetten van een nieuw Java project
 
